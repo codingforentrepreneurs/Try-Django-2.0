@@ -1,3 +1,8 @@
+Include/
+Scripts/
+pip-selfcheck.json
+tcl/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

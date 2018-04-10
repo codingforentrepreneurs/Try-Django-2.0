@@ -1,0 +1,301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dim",
+				"dim"
+			],
+			[
+				"create",
+				"create_validaton"
+			],
+			[
+				"new_",
+				"new_path"
+			],
+			[
+				"new",
+				"new_img"
+			],
+			[
+				"from",
+				"from"
+			],
+			[
+				"word",
+				"word_lexicon"
+			],
+			[
+				"img",
+				"img_array"
+			],
+			[
+				"arr",
+				"arrays"
+			],
+			[
+				"train",
+				"train_generator"
+			],
+			[
+				"pred",
+				"prediction"
+			],
+			[
+				"im",
+				"image_path"
+			],
+			[
+				"image",
+				"image_path"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"load_",
+				"load_model"
+			],
+			[
+				"load",
+				"load_img"
+			],
+			[
+				"valid",
+				"validation_generator"
+			],
+			[
+				"vali",
+				"validation_data_dir"
+			],
+			[
+				"data",
+				"datagen"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "BeagleCoins.com\n\nTrack and manage chores to send rewards for successful completion for parents.\n\n- Groups\n\t- Users\n\t- Managers\n\t\t- Adult (Parent)\n\t\t- Adult2 (Non-Parent Manager)\n\n- Users\n\t- Adult\n\t- Kid\n\n- Tasks\n\t- Creating/Update/Delete (Managers)\n\t- Viewing (Everyone)\n\t- Advanced\n\t\t- Search\n\n- Points\n\t- Viewing (Everyones)\n\n- Rewards\n\t- Creating/Approve/Update/Delete (Managers)\n\t- Suggest (Everyone)",
+			"settings":
+			{
+				"buffer_size": 404,
+				"line_ending": "Windows",
+				"name": "BeagleCoins.com"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "mark",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/j/Dev/trydjango2"
+	],
+	"file_history":
+	[
+		"/C/Users/j/Dev/opencvtube/README.md",
+		"/C/Users/j/Dev/opencvtube/src/res-change.py",
+		"/C/Users/j/Dev/opencvtube/src/base.py",
+		"/C/Users/j/Dev/opencvtube/src/camera-test.py",
+		"/C/Users/j/Dev/testopencv/src/camera-test.py",
+		"/C/Users/j/Dev/ai/sentiment/src/predict.py",
+		"/C/Users/j/Dev/learn/udacity/dermatologist-ai/sample_predictions.csv",
+		"/C/Users/j/Dev/learn/udacity/nd101/src/dog-project/pickles/dognames.pickle",
+		"/C/Users/j/Downloads/db.sqlite3",
+		"/C/Users/j/Dev/learn/udacity/nd101/src/examples/misty/misty.py",
+		"/C/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v9.0/NVIDIA_SLA_cuDNN_Support.txt",
+		"/C/Users/j/Dev/learn/ml/fast-style-transfer/setup.sh",
+		"/C/Users/j/Dev/learn/ml/fast-style-transfer/README.md"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 143.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"django",
+			"process",
+			"degrees",
+			"reshape",
+			"batch_size",
+			"optimize"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"auto_name": "BeagleCoins.com",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango2.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
