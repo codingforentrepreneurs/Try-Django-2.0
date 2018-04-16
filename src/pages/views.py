@@ -3,8 +3,8 @@ from django.shortcuts import render
 
 # Create your views here.
 
-def about_us_view(some_arg):
-    return HttpResponse("<h1>Hello World</h1>")
+def about_us_view(request):
+    return render(request, "about.html", {})
 
 def contact_us_view(some_arg):
     return HttpResponse("<h1>Contact</h1>")
