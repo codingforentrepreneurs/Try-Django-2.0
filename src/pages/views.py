@@ -6,8 +6,8 @@ from django.shortcuts import render
 def about_us_view(request):
     return render(request, "about.html", {})
 
-def contact_us_view(some_arg):
-    return HttpResponse("<h1>Contact</h1>")
+def contact_us_view(request):
+    return render(request, "contact.html", {})
 
-def our_team_view(some_arg):
+def our_team_view(request):
     return HttpResponse("<h1>Team</h1>")
