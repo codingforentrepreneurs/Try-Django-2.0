@@ -80,12 +80,31 @@
 	"buffers":
 	[
 		{
-			"contents": "BeagleCoins.com\n\nTrack and manage chores to send rewards for successful completion for parents.\n\n- Groups\n\t- Users\n\t- Managers\n\t\t- Adult (Parent)\n\t\t- Adult2 (Non-Parent Manager)\n\n- Users\n\t- Adult\n\t- Kid\n\n- Tasks\n\t- Creating/Update/Delete (Managers)\n\t- Viewing (Everyone)\n\t- Advanced\n\t\t- Search\n\n- Points\n\t- Viewing (Everyones)\n\n- Rewards\n\t- Creating/Approve/Update/Delete (Managers)\n\t- Suggest (Everyone)",
+			"file": "ProjectOutline.md",
 			"settings":
 			{
-				"buffer_size": 404,
+				"buffer_size": 406,
+				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "BeagleCoins.com"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 1200,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 309,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -125,7 +144,8 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/j/Dev/trydjango2"
+		"/C/Users/j/Dev/trydjango2",
+		"/C/Users/j/Dev/trydjango2/src"
 	],
 	"file_history":
 	[
@@ -187,30 +207,87 @@
 			[
 				{
 					"buffer": 0,
+					"file": "ProjectOutline.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 404,
+						"buffer_size": 406,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								105,
-								105
+								40,
+								40
 							]
 						],
 						"settings":
 						{
 							"auto_name": "BeagleCoins.com",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								220,
+								220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
