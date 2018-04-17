@@ -3,6 +3,7 @@ Scripts/
 pip-selfcheck.json
 tcl/
 parse_git_log.py
+parsed_log.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
